@@ -62,11 +62,9 @@ This project was developed and tested with the following dependencies:
 * Key libraries:
 
   * **pandas**: For data manipulation
-  * **numpy**: For numerical operations
   * **matplotlib** and **seaborn**: For data visualization
   * **scikit-learn**: For building and evaluating ML models
   * **xgboost**: For building and evaluating ML XGBoost model
-  * **lightgbm**: For building and evaluating ML LightGBM model
 
 ### Installation
 
