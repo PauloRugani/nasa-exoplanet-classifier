@@ -1,6 +1,11 @@
 # NASA EXOPLANET CLASSIFIER
 
-This project uses **machine learning** to classify **exoplanets** (planets outside our solar system) based on observational data from NASA satellites. The goal is to determine whether a candidate is a **confirmed planet**, a **false positive**, or requires further investigation.
+This project is a part of my group's (MoonMonkeys | Aracaju-SE / Brazil) **[NASA SPACE APPS](https://www.spaceappschallenge.org/2025/find-a-team/moonmonkeys2/?tab=project)** solution to the following problem:
+- **A World Away: Hunting for Exoplanets with AI**.
+
+
+
+ The solution uses **machine learning** to classify **exoplanets** (planets outside our solar system) based on observational data from NASA satellites. The goal is to determine whether a candidate is a **confirmed planet**, a **false positive**, or requires further investigation.
 
 We implement supervised learning algorithms with the **scikit-learn** library.
 
